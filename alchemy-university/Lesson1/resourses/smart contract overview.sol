@@ -1,1 +1,0 @@
-An awesome interactive resource for understanding EVM opcodes: https://www.evm.codes/
